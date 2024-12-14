@@ -1,0 +1,234 @@
+[
+  {
+    "_id": "1",
+    "brand_name": "Daraz Bangladesh",
+    "rating": 4.8,
+    "description": "Explore a wide range of products on Daraz Bangladesh with exciting discounts and cashback offers.",
+    "brand_logo": "https://i.ibb.co.com/0hv1FQs/Daraz-Bangladesh.jpg",
+    "coupons": [
+      {
+        "coupon_code": "SAVE10",
+        "description": "Get 10% off on electronics.",
+        "expiry_date": "2024-12-31",
+        "condition": "Minimum purchase of ৳5000.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "CASHBACK50",
+        "description": "Flat ₹50 cashback on orders above ₹1000.",
+        "expiry_date": "2024-11-30",
+        "condition": "Cashback credited to Daraz wallet.",
+        "coupon_type": "Cashback"
+      }
+    ],
+    "shop-Link": "https://www.daraz.com.bd",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "2",
+    "brand_name": "Bikroy.com",
+    "rating": 4.7,
+    "description": "Discover amazing deals and offers on Bikroy.com across categories.",
+    "brand_logo": "https://i.ibb.co.com/hXPVdK1/Bikroy.jpg",
+    "coupons": [
+      {
+        "coupon_code": "BIGBILLION",
+        "description": "Up to 50% off during the Big Billion Days sale.",
+        "expiry_date": "2024-12-01",
+        "condition": "Applicable on selected items.",
+        "coupon_type": "Sale"
+      },
+      {
+        "coupon_code": "NEWUSER200",
+        "description": "৳200 off for new users.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid only on first order.",
+        "coupon_type": "New User"
+      }
+    ],
+    "shop-Link": "https://www.bikroy.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "3",
+    "brand_name": "Foodpanda Bangladesh",
+    "rating": 4.5,
+    "description": "Order food from your favorite restaurants with discounts on Foodpanda Bangladesh.",
+    "brand_logo": "https://i.ibb.co.com/BHDvJpS/Foodpanda-Bangladesh.jpg",
+    "coupons": [
+      {
+        "coupon_code": "MYNTRA20",
+        "description": "20% off on your favorite food items.",
+        "expiry_date": "2024-11-25",
+        "condition": "No minimum order value.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "STYLE10",
+        "description": "Extra 10% off on festive collections.",
+        "expiry_date": "2024-12-15",
+        "condition": "Applicable on orders above ₹2000.",
+        "coupon_type": "Seasonal"
+      }
+    ],
+    "shop-Link": "https://www.foodpanda.com.bd",
+    "category": "Food Delivery",
+    "isSaleOn": false
+  },
+  {
+    "_id": "4",
+    "brand_name": "StarTech",
+    "rating": 4.6,
+    "description": "Get the latest tech products and gadgets from StarTech at unbeatable prices.",
+    "brand_logo": "https://i.ibb.co.com/NFJ2Vc5/StarTech.jpg",
+    "coupons": [
+      {
+        "coupon_code": "AJIOFLAT40",
+        "description": "Flat 40% off on selected tech gadgets.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid only for members.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop-Link": "https://www.startech.com.bd",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "5",
+    "brand_name": "Chaldal",
+    "rating": 4.2,
+    "description": "Order groceries and essentials from Chaldal with great discounts and offers.",
+    "brand_logo": "https://i.ibb.co.com/ZXWWFcD/Chaldal.jpg",
+    "coupons": [
+      {
+        "coupon_code": "TRIP200",
+        "description": "Flat ৳200 off on grocery orders above ৳2000.",
+        "expiry_date": "2024-12-25",
+        "condition": "Applicable on online payments.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop-Link": "https://www.chaldal.com",
+    "category": "Groceries",
+    "isSaleOn": false
+  },
+  {
+    "_id": "6",
+    "brand_name": "Rokomari.com",
+    "rating": 4.4,
+    "description": "Get great deals on books and educational materials at Rokomari.com.",
+    "brand_logo": "https://i.ibb.co.com/wz3hRjZ/Rokomari.jpg",
+    "coupons": [
+      {
+        "coupon_code": "KIDS25",
+        "description": "25% off on educational books.",
+        "expiry_date": "2024-11-30",
+        "condition": "Valid on orders above ৳1500.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop-Link": "https://www.rokomari.com",
+    "category": "Books",
+    "isSaleOn": true
+  },
+  {
+    "_id": "7",
+    "brand_name": "Pickaboo",
+    "rating": 4.3,
+    "description": "Discover the best deals on smartphones and electronics at Pickaboo.",
+    "brand_logo": "https://i.ibb.co.com/2jXtQdn/Pickaboo.jpg",
+    "coupons": [
+      {
+        "coupon_code": "GLOW20",
+        "description": "Flat 20% off on smartphones.",
+        "expiry_date": "2024-12-10",
+        "condition": "Applicable on orders above ৳10000.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "NYKAANEW50",
+        "description": "৳50 off for first-time users.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid on first purchase only.",
+        "coupon_type": "New User"
+      }
+    ],
+    "shop-Link": "https://www.pickaboo.com",
+    "category": "Electronics",
+    "isSaleOn": true
+  },
+  {
+    "_id": "8",
+    "brand_name": "Bproperty",
+    "rating": 4.1,
+    "description": "Find great property deals and rentals at Bproperty.",
+    "brand_logo": "https://i.ibb.co.com/KqNF0wY/Bproperty.jpg",
+    "coupons": [
+      {
+        "coupon_code": "STYLEUP15",
+        "description": "Extra 15% off on selected properties.",
+        "expiry_date": "2024-11-30",
+        "condition": "No minimum purchase required.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop-Link": "https://www.bproperty.com",
+    "category": "Real Estate",
+    "isSaleOn": false
+  },
+  {
+    "_id": "9",
+    "brand_name": "Othoba",
+    "rating": 4.5,
+    "description": "Shop home products, electronics, and more at Othoba with great deals.",
+    "brand_logo": "https://i.ibb.co.com/R7fvT9Q/Othoba.jpg",
+    "coupons": [
+      {
+        "coupon_code": "DOMAIN50",
+        "description": "50% off on furniture and home decor.",
+        "expiry_date": "2024-12-31",
+        "condition": "Valid for selected categories only.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "HOST25",
+        "description": "Flat 25% off on appliances.",
+        "expiry_date": "2024-12-15",
+        "condition": "Valid on orders above ৳3000.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop-Link": "https://www.othoba.com",
+    "category": "E-commerce",
+    "isSaleOn": true
+  },
+  {
+    "_id": "10",
+    "brand_name": "Ajkerdeal",
+    "rating": 4.6,
+    "description": "Shop for electronics, fashion, and groceries at Ajkerdeal with amazing discounts.",
+    "brand_logo": "https://i.ibb.co.com/Mn57HBs/Ajkerdeal.jpg",
+    "coupons": [
+      {
+        "coupon_code": "HOLIDAY20",
+        "description": "20% off on electronics.",
+        "expiry_date": "2024-12-25",
+        "condition": "Valid for a minimum purchase of ৳5000.",
+        "coupon_type": "Discount"
+      },
+      {
+        "coupon_code": "FLY150",
+        "description": "Flat ৳150 off on select electronics.",
+        "expiry_date": "2024-11-30",
+        "condition": "Applicable on one-time purchase.",
+        "coupon_type": "Discount"
+      }
+    ],
+    "shop-Link": "https://www.ajkerdeal.com",
+    "category": "E-commerce",
+    "isSaleOn": false
+  }
+]
